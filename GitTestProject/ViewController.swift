@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("git")
         print("igt2")
+        print("git3")
     }
 
 
